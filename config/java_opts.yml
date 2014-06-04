@@ -15,5 +15,5 @@
 
 # JAVA_OPTS configuration
 ---
-from_environment: false
+from_environment: true
 java_opts: -Dcom.amazonaws.sdk.disableCertChecking=true
